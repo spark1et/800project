@@ -26,4 +26,3 @@ Train my own dataset by Mask RCNN
 After preparing the dataset, I began to train my own data. 
 For the first training, I used the best weights from the previous training of shape data process as the weights for the initial training.
 At the begining, I can see that the epoch loss is 0.816 which is a very high loss. As the epoch grows, the loss is gradually decreasing. This indicates that the model is running effectively.
-
